@@ -1,0 +1,2 @@
+row_centers=1
+crop_rows=2

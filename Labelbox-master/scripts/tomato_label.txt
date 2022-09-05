@@ -1,0 +1,2 @@
+Row Centers=1
+Crop Rows=2

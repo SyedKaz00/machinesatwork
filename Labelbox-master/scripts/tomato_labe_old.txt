@@ -1,0 +1,10 @@
+b_fully_ripened=1
+b_half_ripened=2
+b_green=3
+l_fully_ripened=4
+l_half_ripened=5
+l_green=6
+normal_leaf=7
+sucker_leaf=8
+calyx=9
+stem=10
